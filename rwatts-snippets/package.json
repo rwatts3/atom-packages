@@ -1,0 +1,22 @@
+{
+  "name": "rwatts-snippets",
+  "main": "./lib/rwatts-snippets",
+  "version": "0.1.0",
+  "description": "Atom Snippets by Ryan Watts",
+  "author": "Ryan Watts",
+  "keywords": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwatts3/atom-rwatts-snippets.git"
+  },
+  "readmeFilename": "README.md",
+  "activationCommands": {
+    "atom-workspace": "rwatts-snippets:toggle"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

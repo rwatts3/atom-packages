@@ -1,0 +1,21 @@
+'*':
+	'RW NVATOM Template':
+		'prefix': 'rw-nvatom-template'
+		'body': """
+			# ${1: Category} - ${2: Short Title Here}
+			
+			## Description
+			${3: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua}
+
+			## Code
+
+			```sh
+			${4: console.log('Code Sample Here')}
+			```
+
+			## Reference
+			- {5: Reference Links}
+
+			## Tags
+			{6: #some-tag}
+		"""
